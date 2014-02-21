@@ -1,2 +1,2 @@
 <?php
-print 'suka nahui odata';
+print 'modificam textul';
