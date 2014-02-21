@@ -1,2 +1,2 @@
 <?php
-print 'modificam textuls1';
+print 'modificam textul de pe compul 2+1';
