@@ -1,0 +1,15 @@
+#AuthType Basic
+#AuthUserFile E:\work\test\www\.htpasswd
+#AuthName "доступ воспрещен"
+#require valid-user 
+
+#pass2test
+#Redirect / http://www.google.com
+
+## Can be commented out if causes errors, see notes above.
+#Options +FollowSymLinks
+
+## Mod_rewrite in use.
+
+DirectoryIndex index.php
+
